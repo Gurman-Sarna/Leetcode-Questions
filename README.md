@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
