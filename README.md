@@ -39,5 +39,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
