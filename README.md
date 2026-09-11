@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/0242-valid-anagram) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -59,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
