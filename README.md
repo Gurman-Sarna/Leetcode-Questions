@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0835-image-overlap](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3525-find-x-value-of-array-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Simulation
 |  |
 | ------- |
