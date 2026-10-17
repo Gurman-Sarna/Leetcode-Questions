@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0835-image-overlap](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/0835-image-overlap) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
