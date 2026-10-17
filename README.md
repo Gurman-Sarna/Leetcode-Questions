@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Gurman-Sarna/Leetcode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
 | ------- |
